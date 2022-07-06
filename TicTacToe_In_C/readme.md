@@ -3,7 +3,7 @@ This include two version of TicTacToe:</br>
 One is the normal version, where you may select one or two player to play the game.</br>
 </br>
 The other version is the 9x9 version where the whole game board is divided into 9 section and each section contain 3x3 game board.</br>
- 123 |     |      </br>
+''' 123 |     |      </br>
  456 | (2) | (3)  </br>
  789 |     |      </br>
 -----+-----+----- </br>
@@ -13,7 +13,7 @@ The other version is the 9x9 version where the whole game board is divided into 
 -----+-----+----- </br>
      |     |      </br>
  (7) | (8) | (9)  </br>
-     |     |      </br>
+     |     |      </br>'''
 The basic game flow is that the first player can choose to place the chess in any position of any section. Once the first player have placed the chess, </br>
 the next player should place the specific section which is the position that the previous player placed.</br>
 For example:</br>
